@@ -9,10 +9,11 @@ public class ExMain{
         ExMain insetance = new ExMain();
     }
     String map(String[] arg){
-
+        map insetance = new map();
     }
     String player(String[] arg){
-        
+        player incetanse = new player();
+
     }
 }
 
